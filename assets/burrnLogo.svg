@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="256" viewBox="0 0 356 256">
+  <g id="LOGO" transform="translate(-138 -159)">
+    <text id="B" transform="translate(138 361)" fill="#f8f7f7" font-size="216" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="URRN" transform="translate(293 275)" fill="#f8f7f7" font-size="71" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">URRN</tspan></text>
+    <line id="Line_8" data-name="Line 8" x2="183.388" transform="translate(305.955 296.087)" fill="none" stroke="#ff7a42" stroke-width="10"/>
+  </g>
+</svg>
